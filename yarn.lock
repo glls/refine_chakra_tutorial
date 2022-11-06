@@ -2486,7 +2486,7 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@pankod/refine-chakra-ui@^1.0.0":
+"@pankod/refine-chakra-ui@^1.2.6":
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/@pankod/refine-chakra-ui/-/refine-chakra-ui-1.2.6.tgz#c7ed0fdcc8a972dbfce5ea6b177e5ee026a8b4b0"
   integrity sha512-FwDCoU+HmnKtf66JbJj3MFxMHQ93jK70oLMSWpKrv/KGqkyiueKPNp1bsF1DpP/vPqu5VWz+haLzZZ52hoHU7A==
@@ -2503,7 +2503,7 @@
     remark-gfm "^1.0.0"
     tslib "^2.3.1"
 
-"@pankod/refine-core@^3.18.0", "@pankod/refine-core@^3.86.2":
+"@pankod/refine-core@^3.86.2", "@pankod/refine-core@^3.88.2":
   version "3.88.2"
   resolved "https://registry.yarnpkg.com/@pankod/refine-core/-/refine-core-3.88.2.tgz#8a1035b4884b38b9cc876c199ca32f0223309a24"
   integrity sha512-4VaiAebBzxmSARjw9kSP1dlvDau6O7DxrQEJZUmcp5Rd0biU6VMx6hdyyhFc0uBIfeHyFkUiqFXeVU2CrnqEzQ==
@@ -2519,28 +2519,28 @@
     tslib "^2.3.1"
     warn-once "^0.1.0"
 
-"@pankod/refine-react-hook-form@^3.27.1", "@pankod/refine-react-hook-form@^3.33.2":
+"@pankod/refine-react-hook-form@^3.33.2":
   version "3.33.2"
   resolved "https://registry.yarnpkg.com/@pankod/refine-react-hook-form/-/refine-react-hook-form-3.33.2.tgz#83dfc4aed89a19353bfe1fbd18b8ff03d1f91ba7"
   integrity sha512-rRn2KlP4dPyL0cHiHsIQn79lJkqkwE5o81akG24FxX9wOyzUfxtWNJ8k3/6X4l03pcrokCk5Am6hFpqkmM6Pqg==
   dependencies:
     react-hook-form "^7.30.0"
 
-"@pankod/refine-react-router-v6@^3.18.0":
+"@pankod/refine-react-router-v6@^3.36.2":
   version "3.36.2"
   resolved "https://registry.yarnpkg.com/@pankod/refine-react-router-v6/-/refine-react-router-v6-3.36.2.tgz#cba0df9da265cc91a4ec702f1d45a80cf765af99"
   integrity sha512-AgDUAtk09u+9kDbLXSakSyPQQTHD1k9KT0aKlH77GC7q8oT2KeznaEqnt68ZCgVaMWebSZh6m8+i+APgPtI+ng==
   dependencies:
     react-router-dom "6.3.0"
 
-"@pankod/refine-react-table@^4.7.2":
+"@pankod/refine-react-table@^4.8.0":
   version "4.9.0"
   resolved "https://registry.yarnpkg.com/@pankod/refine-react-table/-/refine-react-table-4.9.0.tgz#50bed569c02934a850db7157f4552ef578960e0d"
   integrity sha512-vV++szuy9I5tewRETk/BShKMuGRYrYtFLv5/T2WVXIe8y02EgXTCvsWVZFnQCUDy33jHqTtSN780mN0IzlxpRw==
   dependencies:
     "@tanstack/react-table" "^8.2.6"
 
-"@pankod/refine-simple-rest@^3.18.0":
+"@pankod/refine-simple-rest@^3.35.0":
   version "3.35.0"
   resolved "https://registry.yarnpkg.com/@pankod/refine-simple-rest/-/refine-simple-rest-3.35.0.tgz#80ec18fa00d07582589ff2c7f57286122186a281"
   integrity sha512-mTtwJ59bGiJLXF8FtlRfhwMYhd37ty9p5rJGiKigdYw4D+v9B2q3UVwQEjAWGKk9g8o6BTQdjrW4y+FkfKdH9w==
